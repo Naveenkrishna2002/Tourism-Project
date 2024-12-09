@@ -1,0 +1,14 @@
+.bg-home{
+    background-image: url(https://ik.imagekit.io/cm91jazca/sea-ocean.webp?updatedAt=1733127240131);
+    height: 500px;
+    width: 250px;
+    background-size: cover;
+}
+.bg-places{
+    background-image: url(https://ik.imagekit.io/cm91jazca/taj-mahal.webp?updatedAt=1733127240035);
+    height: 600px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+    
